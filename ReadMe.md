@@ -1,10 +1,10 @@
-# Python Command Line Games
+# Python Command Line Games :sunflower:
 
 
 This repository contains different command line games you can test. To clone the repository
 use: 
 
-``` git clone -------``` 
+``` git clone git@github.com:victorsibanda/python-cl-games.git``` 
 
 Then run the command line game you want to run in terminal. 
 
